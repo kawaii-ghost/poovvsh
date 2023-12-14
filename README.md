@@ -1,5 +1,5 @@
 # poovvsh
-An userspace OOM Killer written in Powershell
+A userspace OOM Killer written in Powershell
  ------
 ![image](https://github.com/kawaii-ghost/poovvsh/assets/86765295/bed7a783-3fed-44ef-a883-9914957ee7c2)
 
